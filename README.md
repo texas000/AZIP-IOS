@@ -1,6 +1,6 @@
 # AZIP IOS APPLICATION
 
-<img src="Screen Shot 2019-10-03 at 2.25.12 PM.png"> 
+<img src="Screen Shot 2019-10-03 at 2.25.12 PM.png" height="100" width="100"> 
 A mobile application to share place to live with same culture
 
 ## Features
